@@ -1,24 +1,27 @@
-####Object Task
-###Task-1
-Access the golden rod color value in output.
+#### Object Task
 
+### Task-1
+Access the golden rod color value in output.
+</br>
 const colors = {
     red: "#ff0000",
     green: "#00ff00",
     blue: "#0000ff",
     "golden rod": '#daa520'
 };
-###Task-2
+</br>
+### Task-2
 For this object below add a property named passenger capacity with value 5
-
+</br>
 const car = {
     make: "Toyota",
     model: "Corolla",
     year: 2020
 };
-###Task-3
+</br>
+### Task-3
 Display the physics marks as output.
-
+</br>
 const student = {
     name: "Hamim Sakep",
     id: 5421,
@@ -28,24 +31,26 @@ const student = {
         marks: 30
     }
 };
-###Task-4
+</br>
+### Task-4
 Count the number of properties.
-
+</br>
 Input:
-
+</br>
 let student = {
     name: 'Ariana Grande',
     age: 21,
     city: 'Gaibandha',
     isStudent: true
 };
+</br>
 Output:
 
-
 4
-###Task-5 (Hard)
+</br>
+### Task-5 (Hard)
 Loop through an object and print the key-value pairs with their types
-
+</br>
 Input:
 
 let myObject = {
@@ -55,7 +60,7 @@ age: 25,
 city: 'Example City',
 isStudent: true
 };
-
+</br>
 Output:
 
 
@@ -63,18 +68,18 @@ key: name | type:  string
 key: age | type:  number
 key: city | type:  string
 key: isStudent | type:  boolean
+</br>
+### Intro Task
 
-###Intro Task
-
-###Task-1
+### Task-1
 You went to the supermarket to buy some oranges and apples. Calculate how much money the shopkeeper will return.
 
-Input:
+**Input**:
 The first line of the input is the taka you have. The second line is the cost of 1 kg of oranges and 1 kg of apples.
-
-Output:
+</br>
+**Output:**
 Print the result.
-
+</br>
 Sample Input:
 1000
 700
