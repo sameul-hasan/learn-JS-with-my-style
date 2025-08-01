@@ -1,5 +1,5 @@
-Object Task
-Task-1
+####Object Task
+###Task-1
 Access the golden rod color value in output.
 
 const colors = {
@@ -8,7 +8,7 @@ const colors = {
     blue: "#0000ff",
     "golden rod": '#daa520'
 };
-Task-2
+###Task-2
 For this object below add a property named passenger capacity with value 5
 
 const car = {
@@ -16,7 +16,7 @@ const car = {
     model: "Corolla",
     year: 2020
 };
-Task-3
+###Task-3
 Display the physics marks as output.
 
 const student = {
@@ -28,7 +28,7 @@ const student = {
         marks: 30
     }
 };
-Task-4
+###Task-4
 Count the number of properties.
 
 Input:
@@ -43,7 +43,7 @@ Output:
 
 
 4
-Task-5 (Hard)
+###Task-5 (Hard)
 Loop through an object and print the key-value pairs with their types
 
 Input:
@@ -64,9 +64,9 @@ key: age | type:  number
 key: city | type:  string
 key: isStudent | type:  boolean
 
-Intro Task
+###Intro Task
 
-Task-1
+###Task-1
 You went to the supermarket to buy some oranges and apples. Calculate how much money the shopkeeper will return.
 
 Input:
